@@ -1,0 +1,296 @@
+body{
+    margin:0px;
+    padding: 0px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+    background-color:white;
+}
+
+nav ul {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+       margin-left: 200px;
+   
+  
+}
+nav ul li{
+    margin:0 35px;
+    font-size: xx-large;
+    font-weight: 200;
+    text-align: right;
+   
+}
+header{
+    margin-left: 0px;
+    padding-left: 0px;
+}
+.header-container {
+    display: flex;
+
+}
+.img{
+    margin-left: -5px;
+    margin-top: 0px;
+
+}
+.name{
+    font-family:"Dancing Script", cursive;
+    font-size:70px;
+    margin-top:5px;
+    color: rgb(123, 22, 88);
+}
+input {
+    height:30px;
+    width:200px ; 
+    border:2px solid black ;
+    border-radius:0.5px;
+    margin-top: -5px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li:hover{
+    border-bottom: 2px solid rgb(86, 27, 76);
+    border-radius: 0.5px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(238, 226, 209);
+    margin-bottom: 0px;
+}
+.insidep1 {
+    display: flex;
+    border-radius: 40%;
+    
+}
+
+.p1{
+    font-size: 50px;
+    
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+    margin-top: 20px;
+    font-weight :600 ; 
+    
+}
+
+.headings {
+    color: rgb(28, 48, 83);
+    font-size: 60px;
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(211, 237, 229);
+}
+.images{
+    display: flex;
+    
+}
+.images #i1 , #i2 , #i3 {
+    margin-left: 60px;
+    margin-right: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 10px;
+} 
+.para3-sub{
+    display: flex;
+}
+.para3-sub #i11{
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 2px solid black;
+    border-radius: 40%;
+}
+.text{
+    text-align: center;
+}
+.artistname{
+    text-align: center;
+}
+
+.buttons {
+    text-align: center; /* Center the button horizontally within the container */
+}
+
+.buttons button {
+    display: inline-block; /* Ensure the button is treated as inline-block */
+    margin: 0; /* Remove any default margins */
+    height: 50px;
+    width: 300px;
+    font-size: larger;
+    margin-top: 10px;
+    background-color: rgb(243, 69, 72);
+}
+.buttons button:hover{
+    background-color: beige;
+}
+body{
+    margin:0px;
+    padding: 0px;
+    font-size: larger;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+nav ul {
+    text-decoration: none;
+    list-style: none;
+    display: flex;
+       margin-left: 200px;
+   
+  
+}
+nav ul li{
+    margin:0 35px;
+    font-size: xx-large;
+    font-weight:600;
+    text-align: right;
+
+   
+}
+header{
+    margin-left: 0px;
+    padding-left: 0px;
+    position:relative;
+}
+.header-container {
+    display: flex;
+
+}
+.img{
+    margin-left: -5px;
+    margin-top: 0px;
+
+}
+.name{
+    font-family:"Dancing Script", cursive;
+    font-size:70px;
+    margin-top:5px;
+    color: rgb(123, 22, 88);
+}
+input {
+    height:30px;
+    width:200px ; 
+    border:2px solid black ;
+    border-radius:0.5px;
+    margin-top: -5px;
+
+}
+a{
+    text-decoration: none;
+    color: black;
+}
+li:hover{
+    border-bottom: 3.5px solid rgb(86, 27, 76);
+    border-radius: 1px;
+}
+footer{
+    text-align: center;
+    background-color: rgb(238, 226, 209);
+    margin-bottom: 0px;
+}
+.insidep1 {
+    display: flex;
+
+    
+    
+}
+.insidep1 video {
+    object-fit: cover;
+    margin-left: 10px;
+}
+
+.insidep1 #img1{
+ margin-top:20px;
+
+}
+.headings {
+    color: rgb(28, 48, 83);
+    font-size: 60px;
+    text-align: center;
+    font-style: italic;
+    background-color: rgb(211, 237, 229);
+}
+.images{
+    display: flex;
+    
+}
+.images #i1 , #i2 , #i3 {
+    margin-left: 60px;
+    margin-right: 40px;
+    border: 3px solid rgb(35, 32, 29);
+    border-radius: 50%;
+    object-fit: cover;
+    margin-top: 10px;
+} 
+
+.para3-sub{
+    display: flex;
+}
+.para3-sub #i11{
+    margin-right: 10px;
+    margin-left: 10px;
+    border: 2px solid black;
+    border-radius: 40%;
+}
+.text{
+    text-align: center;
+}
+.artistname{
+    text-align: center;
+    color: rgb(51, 40, 48);
+}
+
+.buttons {
+    text-align: center; /* Center the button horizontally within the container */
+}
+
+.buttons button {
+    display: inline-block; /* Ensure the button is treated as inline-block */
+    margin: 0; /* Remove any default margins */
+    height: 50px;
+    width: 300px;
+    font-size: larger;
+    margin-top: 10px;
+    background-color: rgb(37, 28, 28);
+    color: aliceblue;
+}
+.buttons button:hover{
+    background-color: rgb(41, 28, 122);
+}
+.buttons1 button{
+    display: inline-block;
+    margin:0px;
+    height: 60px;
+    width:150px;
+    font-size: x-large;
+    background-color: rgb(21, 35, 79);
+    color: aliceblue;
+  
+}
+.buttons1{
+    text-align: right;
+    position:fixed;
+    right: 30px; /* Distance from the right edge */
+    top:100px;
+}
+.buttons1 button:hover{
+    background-color: rgb(22, 92, 92);
+}
+.images h4 {
+    text-align: center;
+    font-size: xx-large;
+    color: rgb(47, 49, 48);
+}
+.images h4:hover {
+    color: rgb(35, 12, 209);
+}
+.artistname:hover{
+    color: rgb(35, 12, 209);
+}
+.images{
+    margin-top: 10px;
+    background-color: rgb(241, 248, 238);
+}
