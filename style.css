@@ -15,10 +15,12 @@ nav ul {
   
 }
 nav ul li{
-    margin:0px;
+    margin-right: 40px;
     font-size: xx-large;
-    font-weight: 200;
+    font-weight:bold;
     text-align: right;
+ 
+    color: black;
 }
 header{
     margin-left: 0px;
@@ -50,7 +52,7 @@ input {
 a{  text-decoration: none;
    
 }
-}
+
 footer{
     text-align: center;
     background-color: rgb(238, 226, 209);
@@ -138,8 +140,8 @@ input {
     margin-top: -5px;
 
 }
-]
-.Hover:hover{
+
+a .Hover:hover{
     border-bottom: 3.5px solid rgb(86, 27, 76);
     border-radius: 1px;
     
