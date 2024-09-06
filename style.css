@@ -22,6 +22,18 @@ nav ul li{
  
     color: black;
 }
+.Home {
+  margin-right: 40px;
+    font-size: xx-large;
+    font-weight:bold;
+    text-align: right;
+ 
+    color: black;
+}
+.Home :hover{
+      border-bottom: 3.5px solid rgb(86, 27, 76);
+    border-radius: 1px ; 
+}
 header{
     margin-left: 0px;
     padding-left: 0px;
