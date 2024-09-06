@@ -30,7 +30,7 @@ nav ul li{
  
     color: black;
 }
-.Home :hover{
+a .Home :hover{
       border-bottom: 3.5px solid rgb(86, 27, 76);
     border-radius: 1px ; 
 }
