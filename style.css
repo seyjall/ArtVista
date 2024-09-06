@@ -15,6 +15,7 @@ nav ul {
   
 }
 nav ul li{
+    margin-top :5px ;
     margin-right: 40px;
     font-size: xx-large;
     font-weight:bold;
@@ -153,7 +154,7 @@ input {
 
 }
 
-a .Hover:hover{
+a .Hover:hover , a.Home:hover{
     border-bottom: 3.5px solid rgb(86, 27, 76);
     border-radius: 1px;
     
