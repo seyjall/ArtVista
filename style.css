@@ -10,7 +10,7 @@ nav ul {
     text-decoration: none;
     list-style: none;
     display: flex;
-       margin-left: 200px;
+       margin-left: 300px;
    
   
 }
@@ -129,43 +129,7 @@ footer{
 .buttons button:hover{
     background-color: beige;
 }
-body{
-    margin:0px;
-    padding: 0px;
-    font-size: larger;
-    font-family: 'Times New Roman', Times, serif;
-}
 
-nav ul {
-    text-decoration: none;
-    list-style: none;
-    display: flex;
-       margin-left: 200px;
-   
-  
-}
-nav ul li{
-    margin:0 20px;
-    font-size: xx-large;
-    font-weight:200;
-    text-align: right;
-
-   
-}
-header{
-    margin-left: 0px;
-    padding-left: 0px;
-    position:relative;
-}
-.header-container {
-    display: flex;
-
-}
-.img{
-    margin-left: -5px;
-    margin-top: 0px;
-
-}
 .name{
     font-family:"Dancing Script", cursive;
     font-size:70px;
@@ -195,12 +159,7 @@ footer{
     background-color: rgb(238, 226, 209);
     margin-bottom: 0px;
 }
-.insidep1 {
-    display: flex;
 
-    
-    
-}
 .insidep1 video {
     object-fit: cover;
     margin-left: 10px;
@@ -221,14 +180,6 @@ footer{
     display: flex;
     
 }
-.images #i1 , #i2 , #i3 {
-    margin-left: 60px;
-    margin-right: 40px;
-    border: 3px solid rgb(35, 32, 29);
-    border-radius: 50%;
-    object-fit: cover;
-    margin-top: 10px;
-} 
 
 .para3-sub{
     display: flex;
