@@ -52,7 +52,7 @@ a{
     text-decoration: none;
     color: black;
 }
-li:hover{
+.hover:hover{
     border-bottom: 2px solid rgb(86, 27, 76);
     border-radius: 0.5px;
 }
@@ -106,6 +106,7 @@ footer{
 }
 .text{
     text-align: center;
+
 }
 .artistname{
     text-align: center;
@@ -182,7 +183,7 @@ a{
     text-decoration: none;
     color: black;
 }
-li:hover{
+.Hover:hover{
     border-bottom: 3.5px solid rgb(86, 27, 76);
     border-radius: 1px;
 }
@@ -237,10 +238,14 @@ footer{
 }
 .text{
     text-align: center;
+    font-family:sans-serif;
 }
 .artistname{
     text-align: center;
-    color: rgb(51, 40, 48);
+    color: rgb(46, 2, 34);
+    font-family:serif;
+    font-size:25px;
+    line-height:1px;
 }
 
 .buttons {
@@ -254,7 +259,7 @@ footer{
     width: 300px;
     font-size: larger;
     margin-top: 10px;
-    background-color: rgb(37, 28, 28);
+    background-color: rgb(79, 6, 6);
     color: aliceblue;
 }
 .buttons button:hover{
