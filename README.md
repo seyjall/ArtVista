@@ -1,4 +1,4 @@
-# ArtVista
+# ArtVista :  https://seyjall.github.io/ArtVista/
 ArtVista is an exclusive platform designed for art enthusiasts to discover and showcase artwork. Built with HTML and CSS, this project aims to create a user-friendly interface for art lovers to explore art collections.
 
 **Features** : 
